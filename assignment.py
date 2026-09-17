@@ -1,3 +1,8 @@
+# name: angie
+# period: pm
+# Theme Park Admission & Ride Eligibility System
+
+# intro ---------------------
 print("Welcome to our Python Adventure Park! c:")
 print("We are going to help you set up your tickets.")
 print("And pick which rides you'd like to go to.")
